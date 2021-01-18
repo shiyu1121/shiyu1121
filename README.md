@@ -1,4 +1,4 @@
-### Hi there, I'm Shiyu Nakamura 👋
+### Hi there, I'm Shiyu Nakamura!
 
 - My Major: Theoretical Physics (Solid State Physics)
 - Currently Learning: "Analyzing Baseball Data with R"
