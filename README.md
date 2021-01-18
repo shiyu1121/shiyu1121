@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Shiyu Nakamura 👋
+
+- My Major: Theoretical Physics (Solid State Physics)
+- Currently Learning: "Analyzing Baseball Data with R"
+- Available Languages: C++, Java, JavaScript
+
 
 <!--
 **shiyu1121/shiyu1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
