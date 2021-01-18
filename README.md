@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://raw.githubusercontent.com/shiyu1121/shiyu1121/main/profile-summary-card-output/nord_bright/1-commits-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shiyu1121/shiyu1121/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
